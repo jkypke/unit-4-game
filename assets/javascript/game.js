@@ -2,7 +2,7 @@ var targetNumber = "";
 var wins = 0;
 var losses = 0;
 var counter = 0;
-var images = ["./assets/images/crystal-blue.jpeg", "./assets/images/crystal-purple.jpeg", "./assets/images/crystal-red.jpeg", "./assets/images/crystal-yellow.jpeg"];
+var images = ["./assets/images/crystal-blue.jpeg", "./assets/images/crystal-purple.jpeg", "./assets/images/crystal-green.jpeg", "./assets/images/crystal-yellow.jpeg"];
 
 
 	function randomTargetNumber () {
